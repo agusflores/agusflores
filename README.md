@@ -1,5 +1,3 @@
-Hola 👋, Soy Agustin Flores 
-
 Desarrollador Backend 💻 
 
 +6 meses de experiencia.
