@@ -1,5 +1,5 @@
 # 💫 About Me:
-backend dev 💻<br>+6 meses de experiencia <br><br>me encuentro trabajando como desarrollador JAVA en NTT Data en un proyecto MVC.<br><br>mis herramientas principales son: <br><br>⚪ JAVA 8<br>⚪ Oracle SQL Developer<br>⚪  ZK Framework <br>⚪ GIT <br><br><br>
+backend dev 💻<br>+6 meses de experiencia <br><br>me encuentro trabajando como desarrollador JAVA en NTT Data en un proyecto MVC.<br><br>mis herramientas principales son: <br><br>JAVA 8<br> Oracle SQL Developer<br>GIT <br><br><br>
 
 
 ## 🌐 Socials:
