@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**agusflores/agusflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+backend dev 💻
++6 meses de experiencia
 
-Here are some ideas to get you started:
+me encuentro trabajando como desarrollador JAVA en NTT Data en un proyecto MVC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mis herramientas principales son:
+
+⚪ JAVA 8
+⚪ Oracle SQL Developer
+⚪  ZK Framework
+⚪ GIT
+
+
+💻 Tech Stack:
+C# CSS3 HTML5 Java TypeScript .Net Angular Bootstrap JWT Spring Apache Maven Jenkins MicrosoftSQLServer MySQL Figma Canva Postman Swagger Jira
