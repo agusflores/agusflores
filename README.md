@@ -4,8 +4,6 @@ Desarrollador Backend 💻
 
 +6 meses de experiencia.
 
-Actualmente estoy trabajando en NTT Data.
-
 📚 Educacion:
 
 • Analista Programador en UAI (2021 - 2023)
