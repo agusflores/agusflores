@@ -16,7 +16,7 @@ Desarrollador Backend 💻
 
 • Backend Bootcamp en Alkemy (2022)
 
-• FullStack Bootcamp en Codo a Codo (2021)
+• Full Stack Bootcamp en Codo a Codo (2021)
 
 🤓 Experiencia profesional:
 
