@@ -8,13 +8,15 @@ Desarrollador Backend 💻
 
 • Analista Programador en UAI (2021 - 2023)
 
-• FullStack Bootcamp en Codo a Codo (2021)
+• Carrera de Desarrollo Full Stack en Coderhouse (2023 - 2024)
 
-• Backend Bootcamp en Alkemy (2022)
+• SQL Bootcamp en Coderhouse (2023)
 
 • Angular 13 Bootcamp en EducacionIT (2022)
 
-• SQL Bootcamp en Coderhouse (2023)
+• Backend Bootcamp en Alkemy (2022)
+
+• FullStack Bootcamp en Codo a Codo (2021)
 
 🤓 Experiencia profesional:
 
