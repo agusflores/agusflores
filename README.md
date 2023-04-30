@@ -2,7 +2,7 @@
 
 Desarrollador Back-end 💻 
 
-+6 meses de experiencia.
++8 meses de experiencia.
 
 📚 Educacion:
 
