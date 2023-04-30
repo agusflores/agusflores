@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Desarrollador Backend 💻 
+Desarrollador Back-end 💻 
 
 +6 meses de experiencia.
 
@@ -18,7 +18,7 @@ Desarrollador Backend 💻
 
 • Angular 13 Bootcamp en EducacionIT (2022)
 
-• Backend Bootcamp en Alkemy (2022)
+• Back-end Bootcamp en Alkemy (2022)
 
 • Full Stack Bootcamp en Codo a Codo (2021)
 
