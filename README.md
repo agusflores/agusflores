@@ -9,6 +9,10 @@ Desarrollador Backend 💻
 • Analista Programador en UAI (2021 - 2023)
 
 • Carrera de Desarrollo Full Stack en Coderhouse (2023 - 2024)
+  - Modulo Desarrollo Web (HTML, CSS (04/23 - 06/23))
+  - Modulo JavaScript (JS (06/23 - 08/23))
+  - Modulo ReactJS (ReactJS (08/23 - 10/23))
+  - Modulo Programacion Back-end (10/23 - 04/24)
 
 • SQL Bootcamp en Coderhouse (2023)
 
