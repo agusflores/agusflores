@@ -24,5 +24,5 @@ Desarrollador Back-end 💻
 
 🤓 Experiencia profesional:
 
-• Desarrollador JAVA en NTT Data.
+• Desarrollador JR en Vantek.
 
