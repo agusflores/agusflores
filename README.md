@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Desarrollador Back-end 💻 
+Desarrollador de Software FullStack 💻 
 
 +9 meses de experiencia.
 
@@ -24,5 +24,6 @@ Desarrollador Back-end 💻
 
 🤓 Experiencia profesional:
 
-• Desarrollador JR en Vantek.
+• Desarrollador de Software en Vantek 
+• Desarrollador JAVA en NTT Data.
 
