@@ -20,6 +20,7 @@ Desarrollador de Software FullStack 💻
 
 🤓 Experiencia profesional:
 
-  - Desarrollador de Software en Vantek 
-  - Desarrollador JAVA en NTT Data.
+• Desarrollador de Software en Vantek 
+
+• Desarrollador JAVA en NTT Data.
 
