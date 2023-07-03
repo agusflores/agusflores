@@ -2,8 +2,6 @@
 
 Desarrollador de Software FullStack 💻 
 
-+9 meses de experiencia.
-
 📚 Educacion:
 
 • Analista Programador en UAI (2021 - 2023)
@@ -23,4 +21,3 @@ Desarrollador de Software FullStack 💻
 • Desarrollador de Software en Vantek 
 
 • Desarrollador JAVA en NTT Data.
-
